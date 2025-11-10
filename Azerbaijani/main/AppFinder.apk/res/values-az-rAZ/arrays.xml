@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_content">
+        <item>Maraqlı deyil</item>
+        <item>Təkrarlanan</item>
+        <item>Uyğunsuz məzmun</item>
+        <item>Aldadıcı və dələduzluq</item>
+        <item>Qanunsuz məzmun</item>
+        <item>Digər</item>
+    </string-array>
+</resources>
