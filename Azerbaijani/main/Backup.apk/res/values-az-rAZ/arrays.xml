@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Ümumi təcrübə</item>
+        <item>Köçürmə müddəti</item>
+        <item>Prosesin sadəliyi</item>
+        <item>Təlimatların aydınlığı</item>
+        <item>Bu özəllik faydalıdır</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Çox narazı qaldım</item>
+        <item>Bir qədər narazı</item>
+        <item>Neytral</item>
+        <item>Bir qədər razı</item>
+        <item>Çox razı qaldım</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Ümumi qiymətləndirmə</item>
+        <item>Köçürmə müddəti</item>
+        <item>Prosesin sadəliyi</item>
+        <item>Təlimatların aydınlığı</item>
+    </string-array>
+</resources>

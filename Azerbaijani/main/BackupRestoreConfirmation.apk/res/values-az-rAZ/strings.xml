@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_backup_button_label">Verilərimi nüsxələ</string>
+    <string name="allow_restore_button_label">Verilərimi bərpa et</string>
+    <string name="backup_confirm_text">"Bütün verilərin bağlantılı bir masaüstü kompüterə tam nüsxələnməsi tələb olundu. Buna icazə vermək istəyirsiniz?
+
+Nüsxələməni siz tələb etməmisinizsə, bu əməliyyatın davam etdirilməsinə icazə verməyin."</string>
+    <string name="backup_confirm_title">Tam nüsxələmə</string>
+    <string name="backup_enc_password_optional">Nüsxə verilərinizin hamısını şifrələmək istəyirsinizsə, parolu aşağıda daxil edin:</string>
+    <string name="backup_enc_password_text">Lütfən nüsxə verilərinin hamısını şifrələmək üçün parolu daxil edin. Boş buraxsanız, hazırkı nüsxələmə parolunuz istifadə olunacaq:</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
+    <string name="current_password_text">Lütfən hazırkı nüsxə parolunuzu aşağıda daxil edin:</string>
+    <string name="deny_backup_button_label">Nüsxələnməsin</string>
+    <string name="deny_restore_button_label">Bərpa edilməsin</string>
+    <string name="device_encryption_backup_text">Lütfən cihazınızın şifrələmə parolunu aşağıda daxil edin. Bu, nüsxə arxivini şifrələmək üçün istifadə olunacaq.</string>
+    <string name="device_encryption_restore_text">Lütfən cihazınızın şifrələmə parolunu aşağıda daxil edin.</string>
+    <string name="restore_confirm_text">"Bütün verilərin bağlantılı bir masaüstü kompüterdən tam bərpası tələb olundu. Buna icazə vermək istəyirsiniz?
+
+Bərpanı siz tələb etməmisinizsə, bu əməliyyatın davam etdirilməsinə icazə verməyin. Bu, hal-hazırda cihazınızda olan bütün dataları əvəz edəcək!"</string>
+    <string name="restore_confirm_title">Tam bərpa</string>
+    <string name="restore_enc_password_text">Bərpa veriləri şifrələnibsə, lütfən aşağıda parolu daxil edin:</string>
+    <string name="toast_backup_ended">Nüsxələmə bitdi</string>
+    <string name="toast_backup_started">Nüsxələmə başlayır...</string>
+    <string name="toast_restore_ended">Bərpa prosesi bitdi</string>
+    <string name="toast_restore_started">Bərpa prosesi başlayır...</string>
+    <string name="toast_timeout">Əməliyyatın vaxtı bitdi</string>
+</resources>
