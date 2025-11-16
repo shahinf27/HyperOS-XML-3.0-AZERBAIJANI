@@ -508,9 +508,9 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlama tarixi</string>
     <string name="mtrl_picker_today_description">Bu gün %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Təqvim giriş rejiminə keç</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünü dəyişdirmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
-    <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünü dəyişdirmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə keçmək üçün toxunun</string>
     <string name="mtrl_timepicker_cancel">İmtina</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="multi_entry_toast_one_cn">Əvvəlcə AI altyazıları söndür</string>

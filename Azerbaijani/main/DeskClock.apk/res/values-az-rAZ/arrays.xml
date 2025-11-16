@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture_new_array">
+        <item>%d dəqiqədən az müddətdə zəngli saat çalacaq</item>
+        <item>%1$s ərzində zəngli saat çalacaq</item>
+        <item>%2$s ərzində zəngli saat çalacaq</item>
+        <item>%1$s %2$s ərzində zəngli saat çalacaq</item>
+        <item>%3$s ərzində zəngli saat çalacaq</item>
+        <item>%1$s %3$s ərzində zəngli saat çalacaq</item>
+        <item>%2$s %3$s ərzində zəngli saat çalacaq</item>
+        <item>%1$s %2$s %3$s ərzində zəngli saat çalacaq</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Bir dəfə</item>
+        <item>Gündəlik</item>
+        <item>İş günləri</item>
+        <item>Qeyri-iş günləri</item>
+        <item>B.e-dən Cüməyə</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Bir dəfə</item>
+        <item>Gündəlik</item>
+        <item>B.e-dən Cüməyə</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Zəngli saat %d dəqiqədən qısa müddətdə çalacaq.</item>
+        <item>Zəngli saat %1$s ərzində çalacaq.</item>
+        <item>Zəngli saat %2$s ərzində çalacaq.</item>
+        <item>Zəngli saat %1$s və %2$s ərzində çalacaq.</item>
+        <item>Zəngli saat %3$s ərzində çalacaq.</item>
+        <item>Zəngli saat %1$s və %3$s ərzində çalacaq.</item>
+        <item>Zəngli saat %2$s və %3$s ərzində çalacaq.</item>
+        <item>Zəngli saat %1$s %2$s və %3$s ərzində çalacaq.</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Yaxşı</item>
+        <item>Qənaətbəxş</item>
+        <item>Orta dərəcədə kirli</item>
+        <item>Pis</item>
+        <item>Çox pis</item>
+        <item>Bərbad</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Bazar ertəsindən Cüməyə</item>
+        <item>Hər gün</item>
+        <item>İş günləri</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>B.e-dən Cüməyə</item>
+        <item>Hər gün</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Hər gün</item>
+        <item>B.e-dən Cüməyə</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Hər gün</item>
+        <item>Bazar ertəsindən Cüməyə</item>
+        <item>İş günləri</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="cities_names_miui">
+        <item>Abican</item>
+        <item>Akkra</item>
+        <item>Əddis-Əbəbə</item>
+        <item>Əlcəzair</item>
+        <item>Blantire</item>
+        <item>Brazzavil</item>
+        <item>Qahirə</item>
+        <item>Kasablanka</item>
+        <item>Konakri</item>
+    </string-array>
+    <string-array name="countries_names_miui">
+        <item>"Kotd’ivuar"</item>
+        <item>Qana</item>
+        <item>Efiopiya</item>
+        <item>Əlcəzair</item>
+        <item>Malavi</item>
+        <item>Konqo Respublikası</item>
+        <item>Misir</item>
+        <item>Morokko</item>
+        <item>Qvineya</item>
+        <item>Seneqal</item>
+        <item>Tanzaniya</item>
+        <item>Cibuti</item>
+        <item>Syerra-Leone</item>
+        <item>Botsvana</item>
+        <item>Zimbabve</item>
+        <item>Cənubi Afrika</item>
+        <item>Uqanda</item>
+        <item>Ruanda</item>
+        <item>Konqo Demokratik Respublikası</item>
+        <item>Nigeriya</item>
+        <item>Lesoto</item>
+        <item>Somali</item>
+        <item>Keniya</item>
+        <item>San-Tome və Prinsipi</item>
+        <item>Liviya</item>
+        <item>Tunis</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Paraqvay</item>
+        <item>Beliz</item>
+        <item>Kolumbiya</item>
+        <item>Meksika</item>
+        <item>Venesuela</item>
+        <item>Kayman Adaları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Kosta Rika</item>
+        <item>Kurasao</item>
+        <item>Kanada</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Dominikan Respublikası</item>
+        <item>Kanada</item>
+        <item>Salvador</item>
+        <item>Braziliya</item>
+        <item>Qrenada</item>
+        <item>Qvatemala</item>
+        <item>Qayana</item>
+        <item>Kanada</item>
+        <item>Kuba</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Yamayka</item>
+        <item>Boliviya</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Nikaraqua</item>
+        <item>Martinik</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Meksika</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Uruqvay</item>
+        <item>Kanada</item>
+        <item>Baham adaları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Trinidad və Tobaqo</item>
+        <item>Braziliya</item>
+        <item>Kanada</item>
+        <item>Sent-Kits və Nevis</item>
+        <item>Sent-Lusiya</item>
+        <item>ABŞ Virgin adaları</item>
+        <item>Meksika</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Şpisbergen və Yan-Mayen</item>
+        <item>Qazaxıstan</item>
+        <item>İordaniya</item>
+        <item>Rusiya</item>
+        <item>Qazaxıstan</item>
+        <item>İraq</item>
+        <item>Bəhreyn</item>
+        <item>Azərbaycan</item>
+        <item>Tailand</item>
+        <item>Livan</item>
+        <item>Hindistan</item>
+        <item>Suriya</item>
+        <item>Banqladeş</item>
+        <item>Birləşmiş Ərəb Əmirlikləri</item>
+        <item>Fələstin</item>
+        <item>Fələstin</item>
+        <item>Vyetnam</item>
+        <item>Çin</item>
+        <item>İndoneziya</item>
+        <item>Əfqanıstan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malayziya</item>
+        <item>Küveyt</item>
+        <item>Çin</item>
+        <item>Filippin</item>
+        <item>Oman</item>
+        <item>Kamboca</item>
+        <item>Şimali Koreya</item>
+        <item>Qətər</item>
+        <item>Myanma</item>
+        <item>Səudiyyə Ərəbistanı</item>
+        <item>Cənubi Koreya</item>
+        <item>Çin</item>
+        <item>Sinqapur</item>
+        <item>Çin</item>
+        <item>İran</item>
+        <item>İsrail</item>
+        <item>Yaponiya</item>
+        <item>Monqolustan</item>
+        <item>Bermud</item>
+        <item>İspaniya</item>
+        <item>Kabo-Verde</item>
+        <item>İslandiya</item>
+        <item>Folklend adaları</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Avstraliya</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Çili</item>
+        <item>Niderland</item>
+        <item>Andorra</item>
+        <item>Yunanıstan</item>
+        <item>Birləşmiş Krallıq</item>
+        <item>Serbiya</item>
+        <item>Almaniya</item>
+        <item>Slovakiya</item>
+        <item>Belçika</item>
+        <item>Rumıniya</item>
+        <item>Macarıstan</item>
+        <item>Moldova</item>
+        <item>Danimarka</item>
+        <item>İrlandiya</item>
+        <item>Cəbəllütariq</item>
+        <item>Finlandiya</item>
+        <item>Men adası</item>
+        <item>Türkiyə</item>
+        <item>Portuqaliya</item>
+        <item>Birləşmiş Krallıq</item>
+        <item>Lüksemburq</item>
+        <item>İspaniya</item>
+        <item>Malta</item>
+        <item>Belarus</item>
+        <item>Monako</item>
+        <item>Rusiya</item>
+        <item>Norveç</item>
+        <item>Fransa</item>
+        <item>Çexiya</item>
+        <item>Latviya</item>
+        <item>İtaliya</item>
+        <item>Bosniya və Herseqovina</item>
+        <item>Şimali Makedoniya</item>
+        <item>Bolqarıstan</item>
+        <item>İsveç</item>
+        <item>Estoniya</item>
+        <item>Avstriya</item>
+        <item>Litva</item>
+        <item>Polşa</item>
+        <item>Xorvatiya</item>
+        <item>İsveçrə</item>
+        <item>Madaqaskar</item>
+        <item>Maldiv adaları</item>
+        <item>Mavriki</item>
+        <item>Yeni Zelandiya</item>
+        <item>Fici</item>
+        <item>Quam</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Yeni Kaledoniya</item>
+        <item>Fransa Polineziyası</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Kanada</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Kanada</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Salvador</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Salvador</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Qətər</item>
+        <item>Çin</item>
+        <item>Hindistan</item>
+        <item>Hindistan</item>
+        <item>Hindistan</item>
+        <item>Yaponiya</item>
+        <item>Pakistan</item>
+        <item>Hindistan</item>
+        <item>İspaniya</item>
+        <item>Almaniya</item>
+        <item>İtaliya</item>
+        <item>Almaniya</item>
+        <item>Vyetnam</item>
+        <item>Türkiyə</item>
+        <item>Hindistan</item>
+        <item>Braziliya</item>
+        <item>Cənubi Afrika</item>
+        <item>İtaliya</item>
+        <item>Braziliya</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Birləşmiş Krallıq</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Çin</item>
+        <item>Braziliya</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Braziliya</item>
+        <item>Çili</item>
+        <item>Liberiya</item>
+        <item>Şri Lanka</item>
+        <item>Meksika</item>
+        <item>Hindistan</item>
+        <item>Birləşmiş Krallıq</item>
+        <item>Ukrayna</item>
+        <item>Rusiya</item>
+        <item>Polşa</item>
+        <item>Polşa</item>
+        <item>Almaniya</item>
+        <item>Finlandiya</item>
+        <item>İsrail</item>
+        <item>Puerto Riko</item>
+        <item>Honduras</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Cəmi %1$s</item>
+        <item>Cəmi %2$s</item>
+        <item>Cəmi %1$s %2$s</item>
+        <item>Cəmi %3$s</item>
+        <item>Cəmi %1$s %3$s</item>
+        <item>Cəmi %2$s %3$s</item>
+        <item>Cəmi %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_search_bottom_sheet_mode_config">
+        <item>Avto</item>
+        <item>Altda</item>
+        <item>Üzən</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Heç nə etmə</item>
+        <item>Ertələ</item>
+        <item>Söndür</item>
+    </string-array>
+</resources>

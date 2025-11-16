@@ -733,9 +733,9 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitmə tarixi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlanğıc tarixi</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Təqvim giriş rejiminə keç</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Gün seçiminə keçmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
-    <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə keçmək üçün toxunun</string>
     <string name="national_day">Milli Gün</string>
     <string name="national_day_tradition">Milli Gün</string>
     <string name="near_agenda_view">Yaxınlaşan tədbirlər</string>
