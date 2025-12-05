@@ -96,6 +96,7 @@
     <string name="auto_save_subtitle_remind_txt">*Daha asan oxumaq üçün altyazı məzmununun səsə görə ayrılması məqsədilə bu seçimi yoxlayın</string>
     <string name="auto_trans">Avto-tərcümə</string>
     <string name="auto_trans_introduce">Tərcümə bitdikdən sonra mikrofon işə salınacaq</string>
+    <string name="back_screen_display_trans_bottom_title">"Arxa ekran: "</string>
     <string name="banner_item_1_content">Cihazınızda asan, sürətli, ödənişsiz tərcümə</string>
     <string name="banner_item_2_content">Görüşlər, filmlər və daha çoxu üçün tərcümə edilmiş altyazılar əldə edin</string>
     <string name="banner_item_2_content_for_M82">Görüşlər, TV şouları və daha çoxu üçün real vaxtlı altyazılar</string>
@@ -134,7 +135,7 @@
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clearing_storage_space_hint">Altyazılar, %s MB anbar sahəsi tələb edir. Anbar sahəsində bir yer açıb yenidən sınayın.</string>
-    <string name="close">Bağla</string>
+    <string name="close">Söndür</string>
     <string name="cn_to_en">Çin dilindən İngilis dilindən</string>
     <string name="cn_to_ja">Çin dilindən Yapon dilinə</string>
     <string name="cn_to_ko">Çin dilindən Koreya dilinə</string>
@@ -213,6 +214,9 @@
     <string name="exit_improvement_plan_dialog_content_cn">"\"Tərcümə İstifadəçi Təcrübə Proqramı\"ndakı qeydiyyatınızı ləğv etsəniz, Tərcümə, bu özəlliyi təkmilləşdirmək üçün istifadə etdiyi tərcümə edilmiş səs, mətn və digər qeydləri saxlamağı dayandıracaq. Bu cihazın OAID-si ilə əlaqələndirilən yuxarıdakı məlumatlar Xiaomi-nin serverlərindən silinəcək. \"Tərcümə\"ni təkmilləşdirmək üçün artıq istifadə edilmiş az miqdarda nümunə götürülmüş veri artıq bu cihazla əlaqələndirilməyəcək. Yazılma ləğv edilsin?"</string>
     <string name="exit_improvement_plan_dialog_content_global">"\"Mi AI Tərcümə İstifadəçi Təcrübə Proqramı\"ndakı qeydiyyatınızı ləğv etsəniz, Mi AI Tərcümə, bu özəlliyi təkmilləşdirmək üçün istifadə etdiyi tərcümə edilmiş səs, mətn və digər qeydləri saxlamağı dayandıracaq. Bu cihazın OAID-si ilə əlaqələndirilən yuxarıdakı məlumatlar Xiaomi-nin serverlərindən silinəcək. \"Mi AI Tərcümə\"ni təkmilləşdirmək üçün artıq istifadə edilmiş az miqdarda nümunə götürülmüş veri artıq bu cihazla əlaqələndirilməyəcək. Yazılma ləğv edilsin?"</string>
     <string name="exit_improvement_plan_dialog_title">İstifadəçi Təcrübə Proqramına yazılma ləğv edilsin?</string>
+    <string name="exit_multi_window_mode_auto_language_dialog_title">Avtomatik dil tanıma söndürülsün?</string>
+    <string name="exit_multi_window_mode_dialog_content">Bu özəlliyi söndürdükdən sonra, məzmun hər iki ekranda əks olunmayacaq. Yenə də söndürülsün?</string>
+    <string name="exit_multi_window_mode_open_mic_dialog_title">Avto mikrofon istifadəsini dayandır</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="export_note_toast_save_abnormal_empty_string">Məzmun boş ola bilməz. Daha sonra yenidən sınayın!</string>
     <string name="export_note_toast_save_done">Altyazı məzmunu uğurla saxlanıldı</string>
@@ -220,6 +224,7 @@
     <string name="export_preview_results_remind_txt">"Danışanı və ya onun ləqəbini dəyişdirmək üçün danışanın etiketinə toxunun"</string>
     <string name="export_preview_results_title">Önizləmə</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
+    <string name="face_trans_layout_double_show">Üz-üzə (Əks olunmuş)</string>
     <string name="face_trans_layout_external_screen">Xarici ekran</string>
     <string name="face_trans_layout_face_to_face">Üz-üzə</string>
     <string name="face_trans_layout_inner_screen">Daxili ekran</string>
@@ -266,6 +271,7 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="have_been_added">Əlavə edildi</string>
     <string name="have_been_created">Yaradıldı</string>
     <string name="have_downloaded_text">Endirildi</string>
+    <string name="hint_function_online_available">Bu özəlliyi istifadə etmək üçün şəbəkəyə bağlanın</string>
     <string name="hint_text_edit">Düzəliş et</string>
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="identify_sound">Mənbə dil</string>
@@ -515,6 +521,8 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="multi_entry_toast_one_cn">Əvvəlcə AI altyazıları söndür</string>
     <string name="multi_entry_toast_one_global">Əvvəlcə AI Altyazıları söndür</string>
+    <string name="multi_window_mode_guide_dialog_content">Seçilmiş dili arxa ekranda nümayiş etdirə bilərsiniz</string>
+    <string name="multi_window_mode_guide_dialog_summary">*Avtomatik dil tanıma və mikrofon ilkin olaraq açıq olacaq</string>
     <string name="network_unstable">Zəif şəbəkə bağlantısı. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="new_phrase">Bir ifadə əlavə et</string>
     <string name="new_phrase_hint">İfadəni bura daxil edin</string>
@@ -728,6 +736,8 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="sys_sound">Sistem səsi</string>
     <string name="sys_sound_content">Videoya baxarkən altyazıları tərcümə etmək üçün idealdır</string>
     <string name="text_size">Mətn ölçüsü</string>
+    <string name="text_translate_local_error">Bir xəta baş verdi. Bir-iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="text_translate_offline_notice">Şəbəkə bağlantısı kəsildi. Yalnız ingiliscə və çincə arasında tərcümələr əlçatandır.</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

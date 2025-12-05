@@ -168,11 +168,14 @@
     <string name="cancel">İmtina</string>
     <string name="cd_back">geri</string>
     <string name="cd_check_box_checked">işarələndi</string>
+    <string name="cd_check_box_middle">qismən işarələndi</string>
     <string name="cd_check_box_unchecked">işarələnmədi</string>
     <string name="cd_list_item_collapse">Yığcamlaşdırıldı</string>
     <string name="cd_list_item_expanded">Genişləndirildi</string>
     <string name="cd_percent">faiz</string>
+    <string name="cd_scanning">skan edilir</string>
     <string name="cd_settings">ayarlar</string>
+    <string name="cd_sort_type">sıralama növü</string>
     <string name="clean_master_icon_recall_button_text">Əlavə et</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Xeyr, təşəkkürlər</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Əlavə et</string>
@@ -375,6 +378,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="function_app_lock_title">%d tətbiq məxfilik riski daşıyır</string>
+    <string name="global_summary_wa_setting">WhatsApp tullantı qutusu seçilmiş ölçünü aşdığı zaman bildiriş alın</string>
     <string name="global_wa_audio">Səs</string>
     <string name="global_wa_audio_item_title">Səsli mesajlar</string>
     <string name="global_wa_backend_alert_dialog_content">WhatsApp elementlərini təmizləyərək boş yer açın</string>
@@ -612,6 +616,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
@@ -718,6 +723,7 @@
     <string name="native_media_view">Media görünüşü</string>
     <string name="nb_clear_set">Keşi təmizlə, bildiriş panelində batareya və əngəlli siyahısı məlumatlarına bax</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>
+    <string name="never_remind">Heç vaxt</string>
     <string name="news_change">Dəyişdir</string>
     <string name="night">Axşam</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmir, daha sonra yenidən sınayın"</string>
@@ -801,6 +807,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="open_app">Aç</string>
     <string name="open_browser">Brauzerdə aç</string>
     <string name="open_file_error">"Bu faylı açmaq üçün tətbiq tapıla bilmədi"</string>
+    <string name="out">%s üzərində</string>
     <string name="output_videos">Videoları xaricə köçür</string>
     <string name="permission_dialog_storage_btn1">Ayarlar</string>
     <string name="permission_dialog_storage_btn2">İmtina</string>
@@ -827,10 +834,12 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="pref_category_title_cleanup_white_list">İstisnalar</string>
     <string name="pref_category_title_engine_settings">Skan tərifi ayarları</string>
     <string name="pref_category_title_garbage_cleanup_check">Bildirişlər</string>
+    <string name="pref_category_title_notification_settings">Bildirişlər</string>
     <string name="pref_category_title_other_clean_settings">Əlavə ayarlar</string>
     <string name="pref_content_cleanup_white_list_none">Yoxdur</string>
     <string name="pref_summary_auto_clean_and_alert">Təmizləyicinin avtomatik işə düşməsini planlaşdır</string>
     <string name="pref_summary_auto_update_cleanup_db">%s güncəlləndi</string>
+    <string name="pref_summary_clean_settings">Tullantı seçilmiş ölçünü aşdığı zaman bildiriş alın</string>
     <string name="pref_summary_cleanup_white_list">Seçilmiş faylların təmizlənməsini önlə</string>
     <string name="pref_summary_expand_cache_group">Keş detallarını avtomatik göstər</string>
     <string name="pref_summary_garbage_auto_clean_content">Avtomatik təmizlənəcək elementləri seçin</string>
@@ -838,6 +847,8 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="pref_summary_garbage_cleanup_check_time">Müntəzəm təmizləməni planlaşdır</string>
     <string name="pref_summary_garbage_process_mode">Təmizləyici işlək olduqda bildirişləri ayarla</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Bilinməyən fayl adlarını yükləyin və onlayn təriflərlə müqayisə edin</string>
+    <string name="pref_summary_reminder_interval">Seçilmiş vaxtda yalnız bir bildiriş al</string>
+    <string name="pref_summary_wechat_clean_settings">WeChat tullantısı seçilmiş ölçünü aşdığı zaman bildiriş alın</string>
     <string name="pref_title_apps_cleanup_size">Keş, bu ölçüyə çatdıqda</string>
     <string name="pref_title_auto_clean_content_choose">Təmizlənəcək elementləri seçin</string>
     <string name="pref_title_auto_update_cleanup_db">Avto-güncəlləmə</string>
@@ -869,6 +880,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="recommend_news">Tövsiyələri al</string>
     <string name="recommend_the_following">Cihazınızdan ən yaxşı şəkildə faydalanmaq üçün aşağıdakı əməliyyatları edin</string>
     <string name="recommended">Seçilmiş</string>
+    <string name="reminder_interval">Xatırlatma intervalı</string>
     <string name="report_issue">problemi bildir</string>
     <string name="resutl_function_deep_clean_summary"><Data>Daha &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; fayl təmizlənə bilər. Daha çox boş yer açın.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>QQ tərəfindən yaradılmış &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; keşi təmizləyə bilərsiniz</Data></string>
