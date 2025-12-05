@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Bu gecə</item>
+        <item>Sabah</item>
+        <item>Həftəsonu</item>
+        <item>Növbəti həftə</item>
+        <item>Növbəti ay</item>
+        <item>Tarix seçin</item>
+    </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Giriş xətası və ya parol xətası</item>
+        <item>LOGIN Giriş xətası, parol xətası</item>
+        <item>Yararsız istifadəçi adı və ya parol ilə giriş</item>
+        <item>LOGIN uğursuzdur, yararsız istifadəçi adı/parol</item>
+        <item>LOGIN xəta nömrəsi:1424, hesab mövcud deyil (md return:2100001)</item>
+        <item>Giriş etmək üçün lütfən səlahiyyətləndirmə kodunu istifadə edin. Daha çox məlumat: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Səlahiyyətləndirmə kodu yanlışdır. Daha çox məlumat: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Giriş xətası, istifadəçinin fəaliyyəti dayandırılıb</item>
+        <item>AUTHENTICATIONFAILED LOGIN Yararsız kimlik məlumatları</item>
+        <item>Giriş uğursuzdur. Parol yanlışdır və ya xidmət açılmır</item>
+        <item>LOGIN Giriş xətası, istifadəçinin fəaliyyəti dayandırılıb</item>
+        <item>LOGIN uğursuzdur. Hesab əngəllənib. Kimliyinizi doğrulamaq üçün veb brauzer vasitəsilə hesabınıza giriş edin.</item>
+        <item>LOGIN istifadəçi qara siyahıdadır</item>
+        <item>LOGIN errno:1412 status=51 Parol uzun müddətdir ki, dəyişdirilməyib. Lütfən parolu dəyişdirin. http://mail.10086.cn</item>
+        <item>LOGIN uğursuzdur. Hesab əngəllənib. Kimliyinizi doğrulamaq üçün veb brauzer vasitəsilə hesabınıza giriş edin.</item>
+        <item>ERR Yararsız istifadəçi adı və ya parol ilə giriş</item>
+        <item>Giriş uğursuzdur. Giriş etmək üçün lütfən tətbiq parolunu istifadə edin. Daha çox məlumat: http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>LOGIN Giriş xətası, istifadəçi adı və ya parol xətası</item>
+        <item>Yararsız giriş və ya parol</item>
+        <item>qara siyahıda, lütfən şəbəkənizi dəyişdirin və ya client icazəli siyahısını qurmaq üçün giriş edin: https://mail.sohu.com</item>
+    </string-array>
+    <string-array name="invoice_card_keyword">
+        <item>Faktura</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>Faktura</item>
+        <item>faktura</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Təzəlikcə baxılan</item>
+        <item>Ad</item>
+        <item>Göndərən</item>
+        <item>Alınma tarixi</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Hamısı</item>
+        <item>Yalnız göndərənlər</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Bloq:</item>
+        <item>Sayt:</item>
+        <item>E-poçt:</item>
+        <item>mobil:</item>
+        <item>Telefon:</item>
+        <item>E-poçt:</item>
+        <item>Faks:</item>
+        <item>Poçt:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Ünvan:</item>
+        <item>Ad:</item>
+        <item>E-poçt:</item>
+        <item>Mobil:</item>
+        <item>Faks:</item>
+        <item>Poçt Kodu:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Məsuliyyətdən imtina:</item>
+        <item>E-poçt məsuliyyətdən imtinası</item>
+        <item>WPSMail ilə göndərildi</item>
+        <item>Buradan göndərildi</item>
+        <item>Bununla göndərildi</item>
+        <item>Təşəkkürlər,</item>
+        <item>Hörmətlə</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Təşəkkürlər,</item>
+        <item>Hörmətlə</item>
+        <item>Göndərildi</item>
+        <item>Orijinal e-poçt</item>
+        <item>Göndərildi</item>
+        <item>Göndərildi</item>
+        <item>Göndərən</item>
+        <item>Bu e-poçt</item>
+        <item>Məsuliyyətdən imtina</item>
+        <item>E-poçt məsuliyyətdən imtinası</item>
+    </string-array>
+</resources>
