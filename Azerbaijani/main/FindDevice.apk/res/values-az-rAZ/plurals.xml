@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_ago">
+        <item quantity="one">%1$d gün əvvəl</item>
+        <item quantity="other">%1$d gün əvvəl</item>
+    </plurals>
+    <plurals name="hour_ago">
+        <item quantity="one">%1$d sa əvvəl</item>
+        <item quantity="other">%1$d sa əvvəl</item>
+    </plurals>
+    <plurals name="message_board_max_count_toast">
+        <item quantity="one">%d xarakterə qədər daxil et</item>
+        <item quantity="other">%d xarakterə qədər daxil et</item>
+    </plurals>
+    <plurals name="minute_ago">
+        <item quantity="one">%1$d dəq əvvəl</item>
+        <item quantity="other">%1$d dəq əvvəl</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="one">%1$d həftə əvvəl</item>
+        <item quantity="other">%1$d həftə əvvəl</item>
+    </plurals>
+</resources>

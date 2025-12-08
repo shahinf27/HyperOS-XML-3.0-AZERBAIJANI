@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Cihazınızı tapmaq və İtmiş rejimə keçirmək üçün</item>
+        <item>"İnternetə bağlı olmadığı zaman cihazı tapmaq üçün"</item>
+        <item>"İnternetə bağlı olmadığı zaman cihazı tapmaq məqsədilə telefon nömrəsinə erişmək üçün"</item>
+        <item>İtmiş rejim açıq olduğu zaman cihazı tapan şəxsin sizinlə əlaqə saxlamasına kömək etmək üçün</item>
+    </string-array>
+</resources>
