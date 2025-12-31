@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiCloudSync</string>
+    <string name="error_data_in_transfer">Sinxronlaşdırma %s saata bitəcək.</string>
+    <string name="error_forbidden">Mi Hesabınızla əlaqəli problemlərə görə sinxronlaşdırma sıradan çıxarıldı.</string>
+    <string name="error_not_acceptable">Sinxronlaşdırma sıradan çıxarıldı.</string>
+    <string name="error_title">"Sinxronlaşdırıla bilmədi"</string>
+    <string name="error_unauthorized">Həddən artıq daxil olma cəhdlərinə görə sinxronlaşdırma sıradan çıxarıldı.</string>
+    <string name="micloud_downloading_clipboard_message_from_web">Lövhə: Kompüterinizdən bir mesaj alındı</string>
+    <string name="micloud_send_message_desc">Mi Mesaj göndərilir</string>
+</resources>
