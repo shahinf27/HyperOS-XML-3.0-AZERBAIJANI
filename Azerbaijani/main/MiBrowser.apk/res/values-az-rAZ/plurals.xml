@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">%d hour ago</item>
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In %d hour</item>
         <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In half an hour</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -25,7 +20,6 @@
         <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -109,8 +103,8 @@
         <item quantity="other">%1$d dəqiqə nəzər sal, %2$s</item>
     </plurals>
     <plurals name="festival_task_finish">
-        <item quantity="one">Təbriklər! %d hədiyyə qutusu qazandınız</item>
-        <item quantity="other">Təbriklər! %d hədiyyə qutusu qazandınız</item>
+        <item quantity="one">Təbriklər! %d hədiyyə qutusu qazanmısınız</item>
+        <item quantity="other">Təbriklər! %d hədiyyə qutusu qazanmısınız</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="one">%1$d element</item>
@@ -125,7 +119,6 @@
         <item quantity="other">%1$d yeni fayl tapıldı</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="hashtag_followers">
@@ -137,15 +130,12 @@
         <item quantity="other">%1$d saat əvvəl</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 hour</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In half an hour</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
