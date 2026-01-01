@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Xiaomi Hesabı istifadə edərək daxil olmaq üçün</item>
+        <item>Faylları önizləmək, yükləmək, endirmək və sinxronlaşdırmaq üçün</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Xiaomi Hesabı istifadə edərək daxil olmaq üçün</item>
+        <item>Faylları önizləmək, yükləmək, endirmək və sinxronlaşdırmaq üçün</item>
+        <item>Mövcud güncəlləmələri aşkarlamaq üçün</item>
+    </string-array>
+</resources>
