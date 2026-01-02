@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feature_desc">
+        <item>Xiaomi.eu tərəfindən beynəlxalq istifadəçilər üçün optimallaşdırılıb</item>
+    </string-array>
+    <string-array name="month12">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>İyun</item>
+        <item>İyul</item>
+        <item>Avqust</item>
+        <item>Sentyabr</item>
+        <item>Oktyabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+</resources>
