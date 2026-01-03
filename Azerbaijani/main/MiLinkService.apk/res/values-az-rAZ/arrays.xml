@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="passport_account_user_gender_name">
+    <item>Kişi</item>
+    <item>Qadın</item>
+  </string-array>
+  <string-array name="settings_search_connection_home">
+    <item>Ara bağlantı</item>
+    <item>Ara bağlantı/Ara bağlantı</item>
+    <item>Cihaz ara bağlantısı, Cihaz ara bağlantı xidmətləri, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, ağıllı bağlantı, Mi Smart Hub, Ara bağlantı, Duo, Xiaomi telefonu, Xiaomi kompüteri, Çoxlu ekran, Duet, yayım, tətbiqləri birləşdir, toxunmadan, Mirror, Xiaomi Eko sistemi, cihaz bağlantısı</item>
+  </string-array>
+  <string-array name="settings_search_connection_privacy">
+    <item>Məxfilik</item>
+    <item>Ara bağlantı/Məxfilik</item>
+    <item>Məxfilik və ara bağlantı, Məxfilik</item>
+  </string-array>
+  <string-array name="settings_search_connection_service">
+    <item>Xiaomi Ara bağlantı</item>
+    <item>Ara bağlantı/Xiaomi Ara bağlantı</item>
+    <item>Xiaomi Ara bağlantı xidmətləri, Xiaomi Ara bağlantı</item>
+  </string-array>
+  <string-array name="settings_search_relay_app">
+    <item>Tətbiq köçürmə</item>
+    <item>Ara bağlantı/Tətbiqlər</item>
+    <item>&lt;item&gt;Tətbiqləri köçür&lt;/item&gt;</item>
+  </string-array>
+  <string-array name="settings_search_relay_call">
+    <item>Zəng sinxronlaşdırma</item>
+    <item>Ara bağlantı/Zəng sinxronlaşdırma</item>
+    <item>Zəng sinxronlaşdırma</item>
+  </string-array>
+  <string-array name="settings_search_relay_network">
+    <item>Şəbəkə köməyi</item>
+    <item>Ara bağlantı/Şəbəkə köməyi</item>
+    <item>Şəbəkə köməyi</item>
+  </string-array>
+  <string-array name="settings_search_relay_network_2">
+    <item>Paylaşılan bağlantı</item>
+    <item>Ara bağlantı/Paylaşılan bağlantı</item>
+    <item>Paylaşılan bağlantı</item>
+  </string-array>
+  <string-array name="settings_search_relay_network_global">
+    <item>Şəbəkə sinxronlaşdırma</item>
+    <item>Ara bağlantı/Şəbəkə sinxronlaşdırma</item>
+    <item>Şəbəkə sinxr</item>
+  </string-array>
+  <string-array name="settings_search_screen_cast">
+    <item>Yayım</item>
+    <item>Ara bağlantı/Yayım</item>
+    <item>Yayım, Pəncərəni kiçilt, Ekran sönülü yayım</item>
+  </string-array>
+  <string-array name="settings_search_screen_cast_help">
+    <item>Kömək</item>
+    <item>Ara bağlantı/Yayım/Kömək</item>
+    <item>Kömək</item>
+  </string-array>
+  <string-array name="settings_search_share_Launcher">
+    <item>Ana ekran+</item>
+    <item>Ara bağlantı/Ana ekran+</item>
+    <item>Ana ekran+</item>
+  </string-array>
+  <string-array name="settings_search_share_camera">
+    <item>Cihazlar arası kamera</item>
+    <item>Ara bağlantı/Cihazlar arası kamera</item>
+    <item>Cihazlar arası kamera</item>
+  </string-array>
+  <string-array name="settings_search_share_clipboard">
+    <item>Lövhə</item>
+    <item>Ara bağlantı/Lövhə</item>
+    <item>Lövhə</item>
+  </string-array>
+  <string-array name="settings_search_share_file">
+    <item>Cihazlar arası fayllar</item>
+    <item>Ara bağlantı/Cihazlar arası fayllar</item>
+    <item>Cihazlar arası fayllar</item>
+  </string-array>
+  <string-array name="settings_search_share_notify">
+    <item>Cihazlar arası bildirişlər</item>
+    <item>Ara bağlantı/Bildirişlər</item>
+    <item>Cihazlar arası bildirişlər</item>
+  </string-array>
+  <string-array name="settings_search_upay">
+    <item>Cihazlar arası ödənişlər</item>
+    <item>Ara bağlantı/Cihazlar arası ödənişlər</item>
+    <item>Cihazlar arası ödənişlər;cihazlar arasında ödə</item>
+  </string-array>
+</resources>
