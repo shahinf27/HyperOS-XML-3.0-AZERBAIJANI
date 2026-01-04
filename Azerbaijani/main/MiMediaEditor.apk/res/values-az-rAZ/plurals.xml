@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bfw">
+        <item quantity="one">Dəstəklənməyən %d element filtrləndi</item>
+        <item quantity="other">Dəstəklənməyən %d element filtrləndi</item>
+    </plurals>
+    <plurals name="bfx">
+        <item quantity="one">Dəstəklənməyən %d element filtrləndi</item>
+        <item quantity="other">Dəstəklənməyən %d element filtrləndi</item>
+    </plurals>
+    <plurals name="bfy">
+        <item quantity="one">Ən çox %d stiker əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d stiker əlavə edə bilərsiniz</item>
+    </plurals>
+    <plurals name="bfz">
+        <item quantity="one">Ən çox %d forma əlavə edin</item>
+        <item quantity="other">Ən çox %d forma əlavə edin</item>
+    </plurals>
+    <plurals name="bg0">
+        <item quantity="one">Ən çox %d imza əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d imza əlavə edə bilərsiniz</item>
+    </plurals>
+    <plurals name="bg1">
+        <item quantity="one">Ən çox %d mətn qutusu əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d mətn qutusu əlavə edə bilərsiniz</item>
+    </plurals>
+    <plurals name="bg2">
+        <item quantity="one">Təhrif: %d</item>
+        <item quantity="other">Təhrif: %d</item>
+    </plurals>
+    <plurals name="bg3">
+        <item quantity="one">Üfüqi: %d dərəcə</item>
+        <item quantity="other">Üfüqi: %d dərəcə</item>
+    </plurals>
+    <plurals name="bg4">
+        <item quantity="one">%d dərəcə döndər</item>
+        <item quantity="other">%d dərəcə döndər</item>
+    </plurals>
+    <plurals name="bg5">
+        <item quantity="one">Şaquli: %d dərəcə</item>
+        <item quantity="other">Şaquli: %d dərəcə</item>
+    </plurals>
+    <plurals name="bg6">
+        <item quantity="one">%1$s mənbəsindən %2$d quraşdırma paketi (%3$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi (%3$s)</item>
+    </plurals>
+    <plurals name="bg7">
+        <item quantity="one">%1$s mənbəsindən %2$d quraşdırma paketi alındı (%3$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi alındı (%3$s)</item>
+    </plurals>
+    <plurals name="bg8">
+        <item quantity="one">%1$s mənbəsindən %2$d quraşdırma paketi alınır (%3$s)…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi alınır (%3$s)…</item>
+    </plurals>
+    <plurals name="bg9">
+        <item quantity="one">%1$s mənbəsindən %2$d səs faylı (%3$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d səs faylı (%3$s)</item>
+    </plurals>
+    <plurals name="bg_">
+        <item quantity="one">%1$s mənbəsindən %2$d səs faylı alındı (%3$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d səs faylı alındı (%3$s)</item>
+    </plurals>
+    <plurals name="bga">
+        <item quantity="one">%1$s mənbəsindən %2$d səs faylı alınır (%3$s)…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d səs faylı alınır (%3$s)…</item>
+    </plurals>
+    <plurals name="bgb">
+        <item quantity="one">%1$s mənbəsindən %2$d %3$s fayl (%4$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d %3$s fayl (%4$s)</item>
+    </plurals>
+    <plurals name="bgc">
+        <item quantity="one">%1$s mənbəsindən %2$d %3$s fayl alındı (%4$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d %3$s fayl alındı (%4$s)</item>
+    </plurals>
+    <plurals name="bgd">
+        <item quantity="one">%1$s mənbəsindən %2$d %3$s fayl alınır (%4$s)…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d %3$s fayl alınır (%4$s)…</item>
+    </plurals>
+    <plurals name="bge">
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil</item>
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil</item>
+    </plurals>
+    <plurals name="bgf">
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil alındı</item>
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil alındı</item>
+    </plurals>
+    <plurals name="bgg">
+        <item quantity="one">%1$s mənbəsindən %2$d təsvir alınır…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d təsvir alınır…</item>
+    </plurals>
+    <plurals name="bgh">
+        <item quantity="one">%1$s mənbəsindən %2$d təsvir və ya video</item>
+        <item quantity="other">%1$s mənbəsindən %2$d təsvir və ya video</item>
+    </plurals>
+    <plurals name="bgi">
+        <item quantity="one">%1$s mənbəsindən %2$d təsvir və ya video alındı</item>
+        <item quantity="other">%1$s mənbəsindən %2$d təsvir və ya video alındı</item>
+    </plurals>
+    <plurals name="bgj">
+        <item quantity="one">%1$s mənbəsindən %2$d təsvir və ya video alınır…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d təsvir və ya video alınır…</item>
+    </plurals>
+    <plurals name="bgk">
+        <item quantity="one">%1$s mənbəsindən %2$d fayl</item>
+        <item quantity="other">%1$s mənbəsindən %2$d fayl</item>
+    </plurals>
+    <plurals name="bgl">
+        <item quantity="one">%1$s mənbəsindən %2$d fayl alındı</item>
+        <item quantity="other">%1$s mənbəsindən %2$d fayl alındı</item>
+    </plurals>
+    <plurals name="bgm">
+        <item quantity="one">%1$s mənbəsindən %2$d fayl alınır…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d fayl alınır…</item>
+    </plurals>
+    <plurals name="bgn">
+        <item quantity="one">%1$s mənbəsindən %2$d video</item>
+        <item quantity="other">%1$s mənbəsindən %2$d video</item>
+    </plurals>
+    <plurals name="bgo">
+        <item quantity="one">%1$s mənbəsindən %2$d video alındı</item>
+        <item quantity="other">%1$s mənbəsindən %2$d video alındı</item>
+    </plurals>
+    <plurals name="bgp">
+        <item quantity="one">%1$s mənbəsindən %2$d video alınır…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d video alınır…</item>
+    </plurals>
+    <plurals name="bgq">
+        <item quantity="one">%1$s mənbəsindən %2$d arxiv (%3$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d arxiv (%3$s)</item>
+    </plurals>
+    <plurals name="bgr">
+        <item quantity="one">%1$s mənbəsindən %2$d arxiv alındı (%3$s)</item>
+        <item quantity="other">%1$s mənbəsindən %2$d arxiv alındı (%3$s)</item>
+    </plurals>
+    <plurals name="bgs">
+        <item quantity="one">%1$s mənbəsindən %2$d arxiv alınır (%3$s)…</item>
+        <item quantity="other">%1$s mənbəsindən %2$d arxiv alınır (%3$s)…</item>
+    </plurals>
+    <plurals name="bgt">
+        <item quantity="one">Ən çox %d trek əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d trek əlavə edə bilərsiniz</item>
+    </plurals>
+    <plurals name="bgu">
+        <item quantity="one">Orijinal səs %1$d</item>
+        <item quantity="other">Orijinal səs %1$d</item>
+    </plurals>
+    <plurals name="bgv">
+        <item quantity="one">%1$d filtr uğurla daxilə köçürüldü</item>
+        <item quantity="other">%1$d filtr uğurla daxilə köçürüldü</item>
+    </plurals>
+    <plurals name="bgw">
+        <item quantity="one">Təxminən %s dəq qalıb. Bu vaxt ərzində digər özəllikləri istifadə edə bilərsiniz.</item>
+        <item quantity="other">Təxminən %s dəq qalıb. Bu vaxt ərzində digər özəllikləri istifadə edə bilərsiniz.</item>
+    </plurals>
+    <plurals name="bgx">
+        <item quantity="one">"Müddət artıq %d dəqiqəni aşır. "</item>
+        <item quantity="other">"Müddət artıq %d dəqiqəni aşır. "</item>
+    </plurals>
+    <plurals name="bgy">
+        <item quantity="one">%d video ötürüldü.</item>
+        <item quantity="other">%d video ötürüldü.</item>
+    </plurals>
+    <plurals name="bgz">
+        <item quantity="one">"Daxilə köçürülə bilmədi. Müddət %d dəqiqəni aşır."</item>
+        <item quantity="other">"Daxilə köçürülə bilmədi. Müddət %d dəqiqəni aşır."</item>
+    </plurals>
+    <plurals name="bh0">
+        <item quantity="one">%d dərəcə döndər</item>
+        <item quantity="other">%d dərəcə döndər</item>
+    </plurals>
+    <plurals name="bh1">
+        <item quantity="one">%d klip</item>
+        <item quantity="other">%d klip</item>
+    </plurals>
+</resources>

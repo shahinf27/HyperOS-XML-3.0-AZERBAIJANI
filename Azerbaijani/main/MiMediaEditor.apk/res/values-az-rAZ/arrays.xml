@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Ağ</item>
+        <item>Tünd mavi</item>
+        <item>Açıq mavi</item>
+        <item>Qırmızı</item>
+        <item>Yaşıl</item>
+        <item>Çəhrayı</item>
+        <item>Qəhvəyi</item>
+        <item>Boz</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Təsvir daxil et</item>
+        <item>Şəffaf arxaplan</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item>Asudə</item>
+        <item>Meh</item>
+        <item>Xəyallar</item>
+        <item>Buludlar</item>
+        <item>Fikirlər</item>
+        <item>Qönçələr</item>
+        <item>Metamorfoz</item>
+        <item>Dərinlik</item>
+        <item>Əks etmələr</item>
+        <item>Minimalist</item>
+        <item>Sirr</item>
+        <item>Duman</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Futuristik həndəsi arxaplan</item>
+        <item>Köhnə usta çapların atmosferi</item>
+        <item>Arxaplanları eskizlərə çevir</item>
+        <item>Sulu boya stilində arxaplanlar</item>
+        <item>Yanlış yerləşdirilmiş şaquli seqmentlər</item>
+        <item>Dumanlı bulanıqlıq</item>
+        <item>Futuristik hiss</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Eskiz</item>
+        <item>Sulu boya</item>
+        <item>Pərdələr</item>
+        <item>Dumanlı pəncərə</item>
+        <item>Texnologiya</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item>Rəngli kontur</item>
+        <item>Kəsik kontur</item>
+        <item>Floresan kontur</item>
+        <item>Rəngli kölgə</item>
+        <item>Elektrik dalğası</item>
+        <item>Cərəyan</item>
+        <item>Dalğalar</item>
+        <item>Hissəciklər</item>
+        <item>Mətn</item>
+        <item>Qanadlar</item>
+        <item>Mələk</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Ümumi</item>
+        <item>Səyahət</item>
+        <item>İş</item>
+        <item>Sənədlər</item>
+        <item>Təhsil</item>
+        <item>İmtahanlar</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Sosial təminat</item>
+        <item>Sağlamlıq bəyanatı</item>
+        <item>Tibbi sığorta</item>
+        <item>Kimlik</item>
+        <item>Yaşama icazəsi</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Qəbul ərizəsi</item>
+        <item>Tələbə şəbəkəsi</item>
+        <item>İbtidai məktəblər üçün tələbə şəkəbəsi</item>
+        <item>Tələbə şəbəkə profili</item>
+        <item>Universitetə qəbul</item>
+        <item>Milli Təhsil və İqtisadiyyat Mərkəzi</item>
+        <item>Tərcüməyi-hal</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Kollec ingiliscə testi 1</item>
+        <item>Kollec ingiliscə testi 2</item>
+        <item>Kollec ingiliscə testi 3</item>
+        <item>Standart çincə yetərlilik testi 1</item>
+        <item>Standart çincə yetərlilik testi 2</item>
+        <item>İngiliscə dərəcə testi</item>
+        <item>Kolleclər üçün PET</item>
+        <item>PETS Səviyyə 3</item>
+        <item>Milli Kompüter Qiymət İmtahanı 1</item>
+        <item>Milli Kompüter Qiymət İmtahanı 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>İbtidai və orta məktəb müəllimlərinin sertifikatı</item>
+        <item>Müəllim sertifikasiyası</item>
+        <item>"Sürücülük vəsiqəsi"</item>
+        <item>Bələdçi icazəsi</item>
+        <item>Elektronik bələdçi icazəsi</item>
+        <item>Milli məhkəmə imtahanı</item>
+        <item>Elektronik birinci sinif konstruktor sertifikatı</item>
+        <item>İkinci sinif konstruktor ssertifikatı</item>
+        <item>Gənc mühasibatlıq titulu imtahanı</item>
+        <item>Sertifikatlı ictimai mühasib</item>
+        <item>Pekin bələdçi icazəsi</item>
+        <item>Aralıq mühasibatlıq titulu imtahanı</item>
+        <item>Böyük mühasibatlıq titulu imtahanı</item>
+        <item>Mühasibat ixtisası sertifikatı</item>
+        <item>Sertifikatlı ictimai mühasibatlıq imtahanı</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Vyetnam</item>
+        <item>Yaponiya</item>
+        <item>Honq Konq və Makao</item>
+        <item>Cənubi Koreya</item>
+        <item>Tayland (turist)</item>
+        <item>Tayland (gəlişdə)</item>
+        <item>Hindistan</item>
+        <item>İsrail</item>
+        <item>Tayvan</item>
+        <item>Malayziya</item>
+        <item>Yeni Zelandiya</item>
+        <item>İtaliya</item>
+        <item>Braziliya</item>
+        <item>İslandiya</item>
+        <item>Keniya</item>
+    </string-array>
+</resources>
