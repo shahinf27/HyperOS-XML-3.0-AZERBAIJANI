@@ -17,14 +17,9 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 - **"Yazılım"** sözü türkcədən alınma və texnoloji sahədə standartlaşmış termindir. Qısa, aydın və funksionaldır. "Proqram təminatı" kimi ifadəyə nisbətən texniki dəqiqlik təmin edilir. "Yazmaq" felindən törəyib, proqramlaşdırma ilə birbaşa əlaqəlidir. Proqramlaşdırma dili ilə yazılmış və ərsəyə gətirilmiş bir proqramı ifadə edir.
 - **"Donanım"** sözü türkcədən alınma və texnoloji sahədə standartlaşmış termindir. "Avadanlıq təminatı" və "texniki təminat" kimi ifadələrə nisbətən qısa, anlaşılan və sektora uyğun alternativ kimi çıxış edir. "Donatmaq" felindən yaranıb, texniki cihazın içində olan hər şeyə (RAM, motherboard və s.) aiddir. Yəni sistemin fiziki olaraq donadıldığı komponentləri bildirir.
 - **"Gəlişdirmək"** sözü türkcədən alınma sözdür. Azərbaycan dilində “inkişaf etdirmək” və ya “təkmilləşdirmək” deyimləri çox uzundur və kontekstdən kənar anlamlar yarada bilir.
-- **"Identify"** üçün birinci model: Müəyyənləşdirmək > Proses yönümlü
-Identify user → İstifadəçini müəyyənləşdir
-Identify device → Cihazı müəyyənləşdir
-- **"Identify"** üçün ikinci model: Təsbit etmək > Nəticə yönümlü / Analitik
-Identify error → Xətanı təsbit et
-Identify vulnerability → Zəifliyi təsbit et
-Identify intrusion → Müdaxiləni təsbit et
-Identify root cause → Əsas səbəbi təsbit et
+- **"Identify"** üçün birinci model: Müəyyənləşdirmək > Proses yönümlü. <p>Identify user - İstifadəçini müəyyənləşdir</p><p>Identify device - Cihazı müəyyənləşdir</p>
+- **"Identify"** üçün ikinci model: Təsbit etmək > Nəticə yönümlü / Analitik. <p>Identify error - Xətanı təsbit et</p><p>Identify vulnerability - Zəifliyi təsbit et</p><p>Identify intrusion - Müdaxiləni təsbit et</p><p>Identify root cause - Əsas səbəbi təsbit et</p>
+
 
 
 
